@@ -1,4 +1,4 @@
-% Evaluates the Cauchy Stress Tensor for Material 26 %
+% Evaluates the Elasticity Tensor for Material 26 %
 
 function Cauchy = stress26(kinematics,properties,dim)
 
